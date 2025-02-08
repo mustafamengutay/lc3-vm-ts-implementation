@@ -2,7 +2,7 @@
   "name": "lc3-vm-ts-implementation",
   "version": "1.0.0",
   "description": "It is a simple LC-3 Virtual Machine running on Node.js. Little Computer 3 (LC-3) is a computer system that is designed to teach students how to code in assembly language.",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/main.js",
